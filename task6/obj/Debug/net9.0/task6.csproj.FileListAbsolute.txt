@@ -1,0 +1,14 @@
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.AssemblyInfoInputs.cache
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.AssemblyInfo.cs
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\bin\Debug\net9.0\task6.exe
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\bin\Debug\net9.0\task6.deps.json
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\bin\Debug\net9.0\task6.runtimeconfig.json
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\bin\Debug\net9.0\task6.dll
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\bin\Debug\net9.0\task6.pdb
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.dll
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\refint\task6.dll
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.pdb
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\task6.genruntimeconfig.cache
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task6\obj\Debug\net9.0\ref\task6.dll
