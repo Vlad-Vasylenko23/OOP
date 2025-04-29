@@ -1,0 +1,14 @@
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\bin\Debug\net9.0\task8.2.exe
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\bin\Debug\net9.0\task8.2.deps.json
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\bin\Debug\net9.0\task8.2.runtimeconfig.json
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\bin\Debug\net9.0\task8.2.dll
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\bin\Debug\net9.0\task8.2.pdb
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.AssemblyInfoInputs.cache
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.AssemblyInfo.cs
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.dll
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\refint\task8.2.dll
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.pdb
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\task8.2.genruntimeconfig.cache
+C:\Users\vasyl\OneDrive\Рабочий стол\OOP\task8.2\obj\Debug\net9.0\ref\task8.2.dll
